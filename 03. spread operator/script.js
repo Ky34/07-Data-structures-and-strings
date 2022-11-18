@@ -43,6 +43,8 @@ const japaneseRestaurant = {
   },
 };
 
+// Spread (...) operator
+
 const arr = [1, 3, 5];
 
 // Old bad approach
