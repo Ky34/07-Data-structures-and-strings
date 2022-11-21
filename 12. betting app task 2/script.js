@@ -71,7 +71,7 @@ for (const player of game.scored) {
   goalScorers[player] ? goalScorers[player]++ : (goalScorers[player] = 1);
 }
 console.log(goalScorers);
-
+jhgujhgbv;
 // МОЁ РЕШЕНИЕ
 
 // // 1.
